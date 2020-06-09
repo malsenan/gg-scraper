@@ -1,2 +1,4 @@
 # gg-scraper
-Displays winrates and opposing champions
+Uses HtmlUnit to scrape op.gg
+Displays winrates for your top 10 played champions
+and shows the most played against champions
